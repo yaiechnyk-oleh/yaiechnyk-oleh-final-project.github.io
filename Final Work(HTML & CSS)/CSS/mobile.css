@@ -1,0 +1,254 @@
+@media screen and (min-width: 290px) and (max-width: 600px ){
+    .header{
+        height: 540px;
+    }
+
+    .logo{
+        display: none;
+    }
+
+    .registration{
+        margin: 0px;
+    }
+
+    .top_header_content{
+        justify-content: center;
+    }
+
+    .logo_1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin: 153px auto 26px;
+        color: white;
+    }
+
+    .header_content{
+        width: 100%;
+        margin: auto;
+    }
+
+    .header_title_1{
+        width: 100%;
+        height: 37px;
+        font-size: 30px;
+        line-height: 37px;
+        margin: 0px;
+    }
+
+    .header_title_2{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        height: 37px;
+        font-size: 30px;
+        line-height: 37px;
+    }
+
+    .header_text{
+        width: 280px;
+        height: 49px;
+        font-size: 18px;
+        line-height: 24px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .header_desktop_text{
+        display: none;
+    }
+
+    .header_mobile_1, .header_mobile_2{
+         display: flex;
+    }
+
+    .dreamshare{
+        margin: 35px auto;
+        width: 97vw;
+        height: 100%;
+    }
+
+    .titles{
+        width: 289px;
+        height: 27px;
+        font-size: 21px;
+        line-height: 27px;
+        margin-bottom: 15px;
+    }
+
+    .steps{
+        width: 97vw;
+        height: 100%;
+        align-content: space-between;
+        flex-direction: column;
+    }
+
+    .step_1, .step_2, .step_3{
+        width: 100%;
+        height: 80vw;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-bottom: 10px;
+    }
+
+    .step_icon{
+        margin: 64px 0px 15px 20px;
+    }
+
+    .step_content{
+        width: 250px;
+        height: 125px;
+        margin: 15px 0px 16px 20px;
+    }
+
+    .step_title{
+        margin-bottom: 9px;
+    }
+
+    .partner{
+        height: 100%;
+        margin: 36px auto;
+    }
+
+    .partners{
+        height: 95%;
+        justify-content: space-around;
+    }
+
+    .partner_desktop_title{
+        display: none;
+    }
+
+    .partner_title{
+        margin-bottom: 14px; 
+        width: 280px;
+        height: 54px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+     
+    .partner_title_mobile{
+        display: block;
+        text-align: center;
+    }
+
+    .partner_button{
+        width: 95%;
+    }
+     
+    .holiday_activities{
+        margin: 35px auto;
+    }
+
+    .holiday_title{
+        width: 280px;
+        height: 54px;
+    }
+
+    .holiday_activity{
+        flex-direction: column;
+        margin-bottom: 10px;
+        margin-top: 0px;
+        justify-content: flex-start;
+    }
+
+    .first_idea, .second_idea, .third_idea, .fourth_idea, .fifth_idea, .sixth_idea, .seventh_idea{
+         width: 100%;
+         margin-bottom: 10px;
+    }
+
+    .create{
+        width: 100%;
+        height: 192px;
+    }
+
+    .create_title{
+        width: 280px;
+        height: 54px;
+        text-align: center;
+    }
+
+    .holiday_interests{
+        width: 280px;
+        height: 54px;
+        margin-top: 9px;
+        margin-bottom: 15px;
+    }
+
+    .search{
+        width: 280px;
+        height: 90px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .input{
+        width: 280px;
+        height: 40px;
+        margin-bottom: 10px;
+    }
+
+    .create_button{
+        width: 100%;
+        margin: auto;
+    }
+
+    .footer_content{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .footer_dreamsare{
+        margin: 19px auto 31px;
+        text-align: center;
+    }
+
+    .company{
+        padding: 0px;
+        flex-wrap: wrap;
+        align-items: start;
+        justify-content: center;
+        flex-direction: row;
+        margin: 0px auto;
+    }
+
+    .company_title{
+        margin: 0px;
+    }
+
+    .company_container{
+        height: 75px;
+        margin: 0px auto;
+    }
+
+    .company_sections{
+        height: 25.6px;
+        width: 50px;
+    }
+
+    .terms{
+        width: 125px;
+    }
+
+    .partners_title{
+        width: 100%;
+        margin: 7px auto 14px;
+    }
+
+    .designer{
+        margin: 0px auto;
+    }
+
+    .designed{
+        margin: auto;
+        margin-bottom: 7px;
+      display: flex;
+      justify-content: center;
+    }
+
+}

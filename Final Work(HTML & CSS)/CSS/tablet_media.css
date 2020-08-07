@@ -1,0 +1,77 @@
+@media screen and (max-width: 770px){
+     .logo{
+         margin-left: 48px;
+     }
+
+     .registration{
+         margin-right: 57px;
+     }
+
+     .dreamshare{
+        width: 748px;
+     }
+
+     .titles{
+        width: 289px;
+        height: 27px;
+        font-size: 22px;
+        line-height: 27px;
+     }
+
+     .step_1, .step_2, .step_3{
+         width: 31.5%;
+     }
+
+     .step_icon{
+         margin: 205px 0px  15px 20px ;
+     }
+
+     .step_content{
+        width: 196px;
+        height: 120px;
+     }
+
+     .step_text{
+        width: 196px;
+        height: 62px;
+        font-size: 14px;
+        line-height: 14px;
+     }
+     
+     .partner{
+        width: 492px;
+        height: 605px;
+     }
+
+     .partner_title{
+        width: 416px;
+        height: 27px;
+        font-size: 22px;
+        line-height: 27px;
+     }
+
+     .partners{
+         justify-content: space-between;
+     }
+
+     .original{
+         margin: 0px;
+     }
+
+     .holiday_activities{
+        width: 748px;
+        height: 1031px;
+     }
+
+     .holiday_title{
+        width: 350px;
+        height: 27px;
+     }
+
+     .create_title{
+        width: 303px;
+        height: 27px;
+        font-size: 20px;
+        line-height: 27px;
+     }
+}

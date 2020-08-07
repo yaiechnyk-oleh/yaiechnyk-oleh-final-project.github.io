@@ -1,0 +1,43 @@
+@media screen and (max-width: 960px){
+     .dreamshare{
+         width: 98vw;
+     }
+
+     .partner{
+        width: 96.2vw;
+     }
+     
+     .partners{
+         flex-wrap: wrap;
+     }
+
+     .original{
+         margin: auto;
+     }
+
+     .holiday_activities{
+        width: 89.1vw;
+     }
+
+     .footer_content{
+        width: 95vw;
+     }
+
+     .partners_title{
+         margin-right: 0px;
+     }
+
+     .company{
+         margin-right: 10px;
+     }
+}
+
+@media screen and (max-width: 920px){
+    .partner{
+        height: 590px;
+    }
+
+    .partners{
+        height: 450px;
+    }
+}
